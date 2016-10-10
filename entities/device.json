@@ -1,0 +1,29 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords"
+    ],
+    "name" : "device",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "device",
+    "values" : [
+      {
+        "value" : "TV",
+        "expressions" : [
+          "TV",
+          "television"
+        ]
+      },
+      {
+        "value" : "phone",
+        "expressions" : [
+          "phone"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

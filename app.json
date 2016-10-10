@@ -1,0 +1,9 @@
+{
+  "version" : 20160513,
+  "zip-command" : "zip watchvideo.zip watchvideo/app.json watchvideo/entities/*.json watchvideo/actions.json watchvideo/stories.json watchvideo/expressions.json",
+  "data" : {
+    "name" : "watchvideo",
+    "description" : "asd",
+    "lang" : "en"
+  }
+}

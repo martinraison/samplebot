@@ -1,0 +1,19 @@
+{
+  "data" : [
+    {
+      "text" : "I want to watch TV",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"\""
+        },
+        {
+          "entity" : "device",
+          "value" : "\"TV\"",
+          "start" : 16,
+          "end" : 18
+        }
+      ]
+    }
+  ]
+}
