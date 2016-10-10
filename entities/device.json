@@ -17,6 +17,12 @@
         ]
       },
       {
+        "value" : "laptop",
+        "expressions" : [
+          "laptop"
+        ]
+      },
+      {
         "value" : "phone",
         "expressions" : [
           "phone"
